@@ -1,0 +1,9 @@
+# IDE
+.vscode
+.idea
+# Files
+askvce/local_settings.py
+
+# Test Coverage
+.coverage
+htmlcov/
